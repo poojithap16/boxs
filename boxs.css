@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills:wght@200&display=swap');
+
+div{
+    width: 88px;
+    height: 154px;
+    /* border:  solid; */
+}
+body{
+    background-color: black;
+    
+}
+h1{
+    text-align: left;
+ }
+ #t1{
+    color: white;
+ }
+
+#a1{
+    background-color: blue;
+    margin-left: 383px;
+    margin-top: 144px;
+
+}
+#a2{
+    background-color: pink;
+    margin-left: 285px;
+    margin-top: -154px;
+
+}
+#a3{
+    background-color: rgb(208, 34, 63);
+    margin-left: 483px;
+    margin-top: -154px;
+
+}
+#a4{
+    background-color: hotpink;
+    margin-left: 583px;
+    margin-top: -153px;
+
+}
+#a5{
+    background-color: rgb(23, 121, 207);
+    margin-left: 683px;
+    margin-top: -154px;
+
+}
+#a6{
+    background-color: rgb(66, 19, 183);
+    margin-left: 184px;
+    margin-top: 23px;
+
+}
+#a7{
+    background-color: rgb(204, 192, 255);
+    margin-left: 284px;
+    margin-top: -154px;
+
+}
+#a8{
+    background-color: rgb(229, 210, 32);
+    margin-left: 386px;
+    margin-top: -154px;
+
+}
+#a9{
+    background-color: mediumturquoise;
+    margin-left: 487px;
+    margin-top: -153px;
+
+}
+#a10{
+    background-color: rgb(197, 255, 192);
+    margin-left: 586px;
+    margin-top: -153px;
+
+}
+#a11{
+    background-color:honeydew;
+    margin-left: 686px;
+    margin-top: -153px;
+
+}
+#a12{
+    background-color: royalblue;
+    margin-left: 786px;
+    margin-top: -153px;
+
+}
+#a13{
+    background-color: rgb(213, 83, 27);
+    margin-left: 79px;
+    margin-top: 19px;
+
+}
+#a14{
+    background-color: rgb(192, 247, 255);
+    margin-left: 183px;
+    margin-top: -154px;
+
+}
+#a15{
+    background-color: rgb(255, 218, 192);
+    margin-left: 285px;
+    margin-top: -154px;
+
+}
+#a16{
+    background-color: rgb(249, 255, 192);
+    margin-left: 386px;
+    margin-top: -154px;
+
+}
+#a17{
+    background-color: orangered;
+    margin-left: 488px;
+    margin-top: -154px;
+
+}
+#a18{
+    background-color: sienna;
+    margin-left: 585px;
+    margin-top: -154px;
+
+}
+#a19{
+    background-color: khaki;
+    margin-left: 684px;
+    margin-top: -154px;
+
+}
+#a20{
+    background-color: brown;
+    margin-left: 785px;
+    margin-top: -154px;
+
+}
+#a21{
+    background-color: wheat;
+    margin-left: 886px;
+    margin-top: -154px;
+
+}
+p{
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: medium;
+}
+
+
+
+
